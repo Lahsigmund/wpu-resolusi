@@ -5,3 +5,5 @@ RENCANA KONTEN WPU
 -VLOG
 MENAMBAHKAN JAVASKRIP
 -Jago flutter fundamental
+-ANgular
+-flutter
