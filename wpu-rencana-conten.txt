@@ -5,5 +5,8 @@ RENCANA KONTEN WPU
 -VLOG
 MENAMBAHKAN JAVASKRIP
 -Jago flutter fundamental
+-Jago java scrip dari coba fitur 1
+-UI/UX
 -ANgular
 -flutter
+
